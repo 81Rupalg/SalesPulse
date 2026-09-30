@@ -1,0 +1,4 @@
+date,product,category,region,quantity,price,payment_method
+2026-09-01,Laptop Stand,Electronics,North,2,1500,UPI
+2026-09-02,Keyboard,Electronics,West,3,1200,Card
+2026-09-03,Mouse,Electronics,South,5,800,UPI
